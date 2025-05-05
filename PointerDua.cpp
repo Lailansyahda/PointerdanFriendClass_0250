@@ -10,3 +10,9 @@ class mahasiswa
         cout << "No Induk = " << nim << endl;
     }
 };
+
+int main()
+{
+    mahasiswa *mhs = new mahasiswa{1}; // pointer object mhs
+    
+}
